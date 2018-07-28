@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.marijuana.com/strains/grape-krush/",
+    "name": "1"
+  },
+  {
+    "id": 2,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/09/facewreck-351x185.jpg",
+    "name": "2"
+  },
+  {
+    "id": 3,
+    "image":"https://www.marijuana.com/wp-content/uploads/2016/08/Ace-Of-Spades-1-351x185.png",
+    "name": "3"
+  },
+  {
+    "id": 4,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/08/Screen-Shot-2015-10-14-at-8.50.11-AM-351x185.png",
+    "name": "4"
+  },
+  {
+    "id": 5,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/08/SD-351x185.jpg",
+    "name": "5"
+  },
+  {
+    "id": 6,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/08/whitefire2-351x185.jpg",
+    "name": "6"
+  },
+  {
+    "id": 7,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/08/Cataract_Kush_Marijuana_Strain_Review-351x185.png",
+    "name": "7"
+  },
+  {
+    "id": 8,
+    "image": "https://www.marijuana.com/wp-content/uploads/2014/05/bluemoon_4645-351x185.jpg",
+    "name": "8"
+  },
+  {
+    "id": 9,
+    "image": "https://www.marijuana.com/wp-content/uploads/2014/04/Cannalope_Haze_Marijuana_strain_review-351x185.png",
+    "name": "9"
+  },
+  {
+    "id": 10,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/07/sharks-351x185.jpg",
+    "name": "10"
+  },
+  {
+    "id": 11,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/07/magnified1-1297389442-351x185.jpg",
+    "name": "11"
+  },
+  {
+    "id": 12,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/07/ace-of-spades_3393_2_-351x185.jpg",
+    "name": "12"
+  },
+  {
+    "id": 13,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/07/Screen-Shot-2014-09-15-at-7.05.52-AM-351x185.png",
+    "name": "13"
+  },
+  {
+    "id": 14,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/07/BruceBanner1FElixGreen-351x185.jpg",
+    "name": "14"
+  },
+  {
+    "id": 15,
+    "image": "https://www.marijuana.com/wp-content/uploads/2016/02/9lbhammer_5039-351x185.jpg",
+    "name": "15"
+  },
+  {
+    "id": 16,
+    "image": "https://www.marijuana.com/wp-content/uploads/2014/06/black-berry-kush-351x185.jpg",
+    "name": "16"
+  }
+]
